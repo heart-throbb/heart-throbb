@@ -98,7 +98,7 @@ React and Firebase-based report management system featuring authentication, real
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/anas-bilal" target="blank">
+<a href="https://linkedin.com/in/anas-bilal-863b7b2bb" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
